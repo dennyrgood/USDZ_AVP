@@ -1,0 +1,16 @@
+ 1135  ls *.log
+ 1136  more refresh.log
+ 1137  cp pump.usdz ppump.usdz
+ 1138  ./refresh.swift
+ 1139  cat refresh.log
+ 1140  ls -l
+ 1141  ls -l r*
+ 1142  vi refresh.swift
+ 1143  ./refresh.swift
+ 1144  ls r*
+ 1145  ls -l R*
+ 1146  ls -l r*
+ 1147  vi refresh.swift
+ 1148  ./refresh.swift
+ 1149  cat refresh.log
+ 1150  history
