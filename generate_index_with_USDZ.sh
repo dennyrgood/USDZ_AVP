@@ -141,6 +141,6 @@ INDEX_HTML_CONTENT+='
 </html>'
 
 # Write the content to index.html
-echo "$INDEX_HTML_CONTENT" > index_usdz.html
+echo "$INDEX_HTML_CONTENT" > index.html
 echo "index.html has been generated with links to all .usdz files."
 echo "--- Generation Complete ---"
